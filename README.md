@@ -1,6 +1,6 @@
 # raspi_display
 
-Setup for a Raspberry Pi connected to a geophone with an ADS1115 hat or other ADS1115 breakout board.
+Setup for a Raspberry Pi connected to a geophone with an ADS1115 hat or other ADS1115 breakout board. The Raspberry Pi will run a seedlink server and the idea is to have the waveforms displayed by connecting to the seedlink server on the Pi.
 
 ## 1. Attach and connect the geophone
 
@@ -17,3 +17,5 @@ make
 git clone https://github.com/jakewalter/raspi_display.git
 cd raspi_display
 ```
+
+
